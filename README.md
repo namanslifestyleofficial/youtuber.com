@@ -1,2 +1,2 @@
-# .youtuber.com
+# youtuber.com
 namanslifestyle
